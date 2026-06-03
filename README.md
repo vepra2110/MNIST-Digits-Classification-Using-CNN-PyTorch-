@@ -148,6 +148,10 @@ weighted avg     0.9940    0.9940    0.9940     10000
  [   0    0    0    1    4    0    0    1    1 1002]]
 ```
 
+### Training Curves
+
+<img width="3600" height="1500" alt="training_curves" src="https://github.com/user-attachments/assets/a5b1c72e-d138-4c1b-af25-9aad2af09ab9" />
+
 ---
 
 ## 📌 Personal Notes & Custom Instructions
